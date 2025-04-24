@@ -10,10 +10,6 @@ Palindrome Checker
 
 Description
 
-This is a simple program that checks whether a given string or number is a palindrome. A palindrome is a word, phrase, number, or sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
-
-Features
-
 Checks if a given string or number is a palindrome
 
 Ignores case sensitivity and non-alphanumeric characters (optional)
