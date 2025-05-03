@@ -6,7 +6,6 @@ For example, "A man, a plan, a canal: Panama" is a palindrome.
 Features :
 Ignores case sensitivity, spaces, and non-alphanumeric characters.
 Can handle complex strings and sentences.
-Palindrome Checker
 
 Description
 
