@@ -9,7 +9,7 @@ Can handle complex strings and sentences.
 
 Description
 
-Checks if a given string or number is
+Checks if a given string or number is\\
 
 Ignores case sensitivity and non-alphanumeric characters (optional)
 
